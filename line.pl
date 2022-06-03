@@ -1,3 +1,4 @@
+#! /usr/bin/perl
 
 open(FILE, "<a.txt");
 @str = <FILE>;
