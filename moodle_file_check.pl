@@ -1,3 +1,4 @@
+#! /usr/bin/perl
 
 # ディレクトリの一覧を取得する
 opendir ( DIR, "./" );
