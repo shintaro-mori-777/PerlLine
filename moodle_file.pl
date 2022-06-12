@@ -1,3 +1,9 @@
+#  This program code has been implemented by Shintaro MORI
+#    who is assistant professor in Faculty of Engineering,
+#    Fukuoka University, Japan.
+#
+#  Copyright(c) 2022-, Shintaro MORI, All rights reserved.
+
 #! /usr/bin/perl
 
 # ディレクトリの一覧を取得する
@@ -57,7 +63,3 @@ for ( $i = 0; $i < $max; ++$i )
 }
 
 close ( FILE );
-
-
-
-
